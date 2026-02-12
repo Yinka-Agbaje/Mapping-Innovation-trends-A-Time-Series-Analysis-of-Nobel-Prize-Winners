@@ -5,6 +5,8 @@
 ## 📌 Project Overview
 Since 1901, the Nobel Prize has tracked the frontiers of human knowledge. This project leverages a century-scale dataset from the Nobel Prize API to conduct a **Time-Series Analysis**, uncovering how the "landscape of genius" has evolved across six categories. By binning data into decades, we can visualize the rise and fall of national dominance and the slow progress toward gender parity.
 
+---
+
 ## 🛠️ Technical Arsenal
 - **Analysis:** Python (Pandas for time-series binning, NumPy for statistical operations)
 - **Visualization:** Seaborn & Matplotlib (Multi-line trend plots)
@@ -29,6 +31,7 @@ Since 1901, the Nobel Prize has tracked the frontiers of human knowledge. This p
 | **Highest Female Growth** | Peace and Literature (21st Century) |
 
 ---
+![Global Innovation Trends](images/nobel_trends.png)
 
 ## 👩‍💻 Author
 **Olayinka Agbaje** | Data Scientist
