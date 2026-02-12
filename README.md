@@ -31,6 +31,10 @@ Since 1901, the Nobel Prize has tracked the frontiers of human knowledge. This p
 | **Highest Female Growth** | Peace and Literature (21st Century) |
 
 ---
+![Global Innovation Trends](images/nobel_trendss.png)
+
+---
+
 ![Global Innovation Trends](images/nobel_trends.png)
 
 ## 👩‍💻 Author
