@@ -39,4 +39,5 @@ Since 1901, the Nobel Prize has tracked the frontiers of human knowledge. This p
 
 ## 👩‍💻 Author
 **Olayinka Agbaje** | Data Scientist
-[LinkedIn](www.linkedin.com/in/olayinka-agbaje-188102224) | [Email](mailto:olayinkaagbaje01@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](www.linkedin.com/in/olayinka-agbaje-188102224) 
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=flat&logo=gmail)](mailto:olayinkaagbaje01@gmail.com)
